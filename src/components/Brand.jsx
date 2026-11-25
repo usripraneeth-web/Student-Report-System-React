@@ -1,0 +1,1 @@
+export default function Brand({ subtitle = 'Academic Management System' }) { return <div className="brand-lockup"><div className="brand-icon">SR</div><div><h2>Student Report</h2><span>{subtitle}</span></div></div> }
